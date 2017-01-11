@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.gitflow.spike:common:201701111440-c6c5b5c">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gitflow/spike/common/201701111440-c6c5b5c/common-201701111440-c6c5b5c.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gitflow/spike/common/201701111440-c6c5b5c/common-201701111440-c6c5b5c-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gitflow/spike/common/201701111440-c6c5b5c/common-201701111440-c6c5b5c-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
