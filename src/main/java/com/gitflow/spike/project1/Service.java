@@ -8,8 +8,8 @@ import com.gitflow.spike.common.Util;
  */
 public class Service {
 
-    public void  execute(){
-        Util.print();
+    public void  execute3(){
+        Util.print2();
         System.out.println("Hey!!!!");
     }
 }
